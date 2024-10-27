@@ -9,10 +9,10 @@ body {
     margin: 0;
 }
 
-
 .cv-container {
     width: 100%;
     max-width: 1000px;
+    text-align: center;
     background-color: #fff;
     border: 3px solid #d3d3d3;  
     border-radius: 10px;  
